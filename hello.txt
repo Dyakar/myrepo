@@ -1,2 +1,5 @@
 hello
-this si a proof
+this is a proof
+i will try to use this repo to learn the remote tool
+in the terminal to pull and push frmo my repository.
+wish me luck!
